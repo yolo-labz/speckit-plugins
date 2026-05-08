@@ -1,0 +1,21 @@
+{
+  "name": "speckit-plugins",
+  "owner": {
+    "name": "spec-kit"
+  },
+  "metadata": {
+    "description": "Spec-Driven Development (SDD) workflow plugins for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "speckit",
+      "source": "./plugins/speckit",
+      "description": "Spec-Driven Development workflow",
+      "version": "0.1.0",
+      "author": {
+        "name": "spec-kit"
+      }
+    }
+  ]
+}
