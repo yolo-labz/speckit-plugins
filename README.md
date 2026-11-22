@@ -35,9 +35,9 @@ Conventional Commits + semver. Tags are signed via Sigstore through the release 
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Upstream `github/spec-kit` is MIT-licensed; this redistribution preserves that license.
+MIT, see [`LICENSE`](LICENSE). Upstream `github/spec-kit` is MIT-licensed; this redistribution preserves that license.
 
 ---
 
-Part of **[yolo-labz](https://github.com/yolo-labz)** — small tools, deliberate automation.
+Part of **[yolo-labz](https://github.com/yolo-labz)**: small tools, deliberate automation.
 [Org profile](https://github.com/yolo-labz) · [All repositories](https://github.com/orgs/yolo-labz/repositories) · [Engineering notes](https://blog.home301server.com.br)
